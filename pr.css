@@ -1,0 +1,292 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    }
+    a{
+        text-decoration:none;
+        color:black;
+        display: block;
+    }
+    .header_cap{
+    width: 1450px;
+    height: 92px;
+    flex-shrink: 0;
+    position: absolute;
+    background: #F90;
+    margin-left: 0px;
+    width: 100%;
+    }
+    .header_cap--logo{
+    background: url(./kar/pngwing\ 3.png);
+    width: 84px;
+    height: 65px;
+    flex-shrink: 0;
+    margin-top: 11px;
+    margin-left: 73px;
+    position: absolute;
+    }
+    .header_cap--logo2{
+    background: url(./kar/pngwing\ 4.png);
+    width: 17.672px;
+    height: 13.224px;
+    transform: rotate(45deg);
+    flex-shrink: 0;
+    margin-top: 12.03px;
+    margin-left: 115.94px;
+    position: absolute;
+    }
+    .header_cap--logo3{
+    width: 18.188px;
+    height: 36.086px;
+    transform: rotate(40.275deg);
+    flex-shrink: 0;
+    color: #F90;
+    font-family: Italianno;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 12.92px;
+    margin-left: 100.71px;
+    position: absolute;
+    }
+    .header__block{
+    width: 100%;
+    margin-top: 64px;
+    height: 800px;
+    flex-shrink: 0;
+    background: linear-gradient(180deg, rgba(217, 217, 217, 0.00) 0%, rgba(192, 37, 37, 0.20) 100%);
+    filter: blur(2.5px);
+    }
+    .header_cap--textt{
+        color: rgba(0, 0, 0, 0.50);
+        font-family: JetBrains Mono;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    margin-top: 23px;
+    margin-left: 280px;
+    position: absolute;
+    }
+    .header_cap--textt2{
+        color: rgba(0, 0, 0, 0.50);
+        font-family: JetBrains Mono;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    margin-top: 23px;
+    margin-left: 603px;
+    position: absolute;
+    }
+    .header_cap--textt3{
+        color: #000;
+        font-family: JetBrains Mono;
+        font-size: 28px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        text-decoration-line: underline;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 1055px;   
+    }
+    .header_cap--text4{
+    color: #000;
+    font-family: JetBrains Mono;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 28px;
+    margin-left: 1648px;
+    position: absolute;
+    }
+    .header_cap--text5{
+    color: #000;
+    font-family: Italianno;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-top: 7px;
+    margin-left: 10px;
+    position: absolute;
+    }
+    .heading__prem{
+        color: #000;
+font-family: Inter;
+font-size: 64px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+margin-top: 193px;
+margin-left: 681px;
+}
+.heading__block{
+    width: 1183px;
+height: 901px;
+flex-shrink: 0;
+border-radius: 129px;
+background: #FFEFEF;
+box-shadow: 8px 4px 4px 0px rgba(0, 0, 0, 0.25);
+margin-top: 340px;
+margin-left: 388px;
+position: absolute;
+}
+.heading__block--bor{
+    width: 1px;
+height: 901px;
+background: #000;
+position: absolute;
+margin-left: 372px;
+}
+.heading__block--bor2{
+    width: 1px;
+    height: 901px;
+    background: #000;
+    position: absolute;
+    margin-left: 811px;
+}
+.heading__block--price{
+    color: #000;
+font-family: Italianno;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+margin-left: 44px;
+margin-top: 150px;
+}
+.heading__block--price2{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 433px;
+    color: #000;
+font-family: Italianno;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.heading__block--price3{
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 871px;
+    color: #000;
+font-family: Italianno;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.heading__block--text{
+    color: #000;
+font-family: Italianno;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: 92px;
+position: absolute;
+margin-top: 324px;
+margin-left: 33px;
+}
+.heading__block--text2{
+    color: #000;
+    font-family: Italianno;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 92px;
+    position: absolute;
+    margin-top: 324px;
+    margin-left: 433px;
+}
+.heading__block--text3{
+    color: #000;
+    font-family: Italianno;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 92px;
+    position: absolute;
+    margin-top: 324px;
+    margin-left: 833px;
+}
+.heading__block--kar{
+    background: url(./pngwing\ 3\ \(1\).png);
+    position: absolute;
+    width: 579px;
+height: 452px;
+flex-shrink: 0;
+margin-top: 202px;
+margin-left: 302px;
+}
+.heading__block--capsula{
+    width: 224px;
+height: 81px;
+flex-shrink: 0;
+position: absolute;
+margin-top: 687px;
+margin-left: 80px;
+border-radius: 34px;
+border: 1px solid #000;
+}
+.heading__block--pay{
+    color: #C02525;
+font-family: Italianno;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+margin-top: 18px;
+margin-left: 49px;
+}
+
+.heading__block--capsula2{
+    width: 224px;
+height: 81px;
+flex-shrink: 0;
+position: absolute;
+margin-top: 687px;
+margin-left: 480px;
+border-radius: 34px;
+border: 1px solid #000;
+}
+.heading__block--pay2{
+    color: #C02525;
+font-family: Italianno;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+margin-top: 18px;
+margin-left: 49px;
+}
+
+.heading__block--capsula3{
+    width: 224px;
+height: 81px;
+flex-shrink: 0;
+position: absolute;
+margin-top: 687px;
+margin-left: 880px;
+border-radius: 34px;
+border: 1px solid #000;
+}
+.heading__block--pay3{
+    color: #C02525;
+font-family: Italianno;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+position: absolute;
+margin-top: 18px;
+margin-left: 49px;
+}
